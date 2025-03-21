@@ -19,15 +19,15 @@ The default is this:
 
     DB_CONNECTION=sqlite
     
-    \# DB_HOST=127.0.0.1
+    # DB_HOST=127.0.0.1
     
-    \# DB_PORT=3306
+    # DB_PORT=3306
     
-    \# DB_DATABASE=laravel
+    # DB_DATABASE=laravel
     
-    \# DB_USERNAME=root
+    # DB_USERNAME=root
     
-    \# DB_PASSWORD=
+    # DB_PASSWORD=
 
 Change it to your settings for your database
 
