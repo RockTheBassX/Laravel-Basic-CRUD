@@ -13,6 +13,7 @@ Create a project:
 I am using postgresSQL installed locally in this example
 
 Create a database "LaravelBasicCRUD"
+
 Edit your .env file for your database settings
 
 The default is this:
@@ -44,6 +45,7 @@ Change it to your settings for your database
     DB_PASSWORD=adminPassword
 
 Delete the files in /database/migrations
+
 Copy the files in Laravel-Basic-CRUD from GitHub to the Laravel-Basic-CRUD directory
 
 Run the migrations to initialize the database:
