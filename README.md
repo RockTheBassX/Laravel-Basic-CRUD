@@ -53,11 +53,17 @@ Run the migrations to initialize the database:
     php artisan migrate:fresh
 
 Clear all the caches:
+
     php artisan cache:clear
+    
     php artisan config:clear
+    
     php artisan route:clear
+    
     php artisan view:clear
+    
     php artisan event:clear
+    
     php artisan optimize:clear
 
 Set up your Vite resources:
