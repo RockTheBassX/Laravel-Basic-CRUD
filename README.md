@@ -3,6 +3,7 @@ This is a basic Laravel Jetstream CRUD app with user login and registering for t
 To install it on a local test server first install Composer for your platform
 
 Create a project:
+
     composer create-project --prefer-dist laravel/laravel Laravel-Basic-CRUD
     
     cd Laravel-Basic-CRUD
