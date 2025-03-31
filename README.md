@@ -4,11 +4,17 @@ To install it on a local test server first install Composer for your platform
 
 Create a project:
     composer create-project --prefer-dist laravel/laravel Laravel-Basic-CRUD
+    
     cd Laravel-Basic-CRUD
+    
     composer require laravel/Jetstream
+    
     composer require livewire/livewire
+    
     php artisan jetstream:install livewire
+    
     php artisan livewire:publish --assets
+    
 
 I am using postgresSQL installed locally in this example
 
